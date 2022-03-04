@@ -1,0 +1,9 @@
+django
+django-heroku
+datetime
+os
+tensorflow
+numpy
+psycopg2
+whitenoise
+gunicorn
